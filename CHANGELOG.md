@@ -1,6 +1,12 @@
 # NHS.UK frontend Changelog
 
-## 4.1.0 - Unreleased
+## 5.0.0 - Unreleased
+
+:boom: **Breaking changes**
+
+- Remove Review date component
+
+  The review date component is more of a pattern than a component, it can be achieved by using utility classes.
 
 :new: **New features**
 
