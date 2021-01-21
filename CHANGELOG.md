@@ -1,5 +1,15 @@
 # NHS.UK frontend Changelog
 
+## 4.2.0 - unreleased
+
+:new: **New features**
+
+- Add helper class `nhsuk-header--service-name-inline` to make a service name inline with the NHS lozenge on smaller screens
+
+:wrench: **Fixes**
+
+- Remove `max-width` from service header with a logo only 
+
 ## 4.1.0 - 21 January 2021
 
 :new: **New features**
