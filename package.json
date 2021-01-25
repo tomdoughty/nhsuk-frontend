@@ -1,6 +1,6 @@
 {
   "name": "nhsuk-frontend-toms-test",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "NHS.UK frontend contains the code you need to start building user interfaces for NHS websites and services.",
   "scripts": {
     "prepare": "gulp bundle",
